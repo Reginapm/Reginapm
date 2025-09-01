@@ -10,6 +10,6 @@ Soy principiante en programación, pero es una habilidad que pretendo desarrolla
 <a href="https://www.instagram.com/bosquemesofilo33/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bosquemesofilo33-white?style=social&logo=instagram"></a>
 </p>
 
-<img width="426" height="426" alt="image" src="https://github.com/user-attachments/assets/61ca60ce-2309-4daf-a919-87acf2d816e4" />
+
 
 
