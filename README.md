@@ -4,3 +4,11 @@ Soy estudiante de licenciatura de la carrera de Biología en la Facultad de Estu
 
 Soy principiante en programación, pero es una habilidad que pretendo desarrollar al máximo, dado su gran uso en el campo de las ciencias. Por el momento estoy aprendiendo los básicos de R. 
 
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="mailto:reginapadronm33@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-reginapadronm33@gmail.com-white?style=social&logo=gmail"></a>
+<a href="https://www.instagram.com/bosquemesofilo33/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bosquemesofilo33-white?style=social&logo=instagram"></a>
+</p>
+
+
