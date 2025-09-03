@@ -4,6 +4,10 @@
 Soy estudiante de licenciatura de la carrera de Biología en la Facultad de Estudios Superiores Iztacala. Actualmente me enfoco a la investigación en el área de ecología entomológica; estudio los efectos del manejo tradicional con fuego en palmares sobre las comunidades de ortópteros en la región centro de México. Mis planes a futuro incluyen realizar una maestría en Ciencias del Mar y Limnología en la Facultad de Ciencias, o bien realizar mis estudios de posgrado en otra universidad, ya sea regional o en el extranjero.
 Soy principiante en programación, pero es una habilidad que pretendo desarrollar al máximo, dado su gran uso en el campo de las ciencias. Por el momento estoy aprendiendo los básicos de R. 
 
+![istockphoto-636315274-612x612](https://github.com/user-attachments/assets/ee26aadf-629a-4210-9893-9b70e23f8b63)
+
+![c034760e42e7fe1688b581826fb00a9e](https://github.com/user-attachments/assets/de6472bc-317e-49cd-9e2c-f97c2d1bda62)
+
 ## <h3> :upside_down_face: Conecta conmigo! </h3>
 
 <a href="mailto:reginapadronm33@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-reginapadronm33@gmail.com-white?style=social&logo=gmail"></a>
